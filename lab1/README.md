@@ -1,1 +1,1 @@
-init
+Introduction to RUST
